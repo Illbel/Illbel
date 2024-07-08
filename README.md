@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abel
 
-- 👀 I’m interested in coading
+- 👀 I’m interested in coding
 
 - 🌱 I’m currently learning Computer Science 
 
